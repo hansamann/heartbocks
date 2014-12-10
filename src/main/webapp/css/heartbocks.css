@@ -1,0 +1,21 @@
+body {
+	padding-top: 70px;
+}
+
+.container {
+	/*border: 1px solid green;*/
+}
+
+.red {
+	color: red !important;
+}
+
+#heartContainer {
+	margin: 0 auto;
+	/*border: 1px solid red;*/
+	width: 75%;
+}
+
+#heart {
+	width: 100%;
+}
